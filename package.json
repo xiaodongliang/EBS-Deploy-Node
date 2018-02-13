@@ -1,0 +1,29 @@
+{
+  "name": "forgeviewer",
+  "version": "1.0.0",
+  "description": "Basic Forge Viewer classroom trainning material",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnOnSoftware/Forge.Viewer.Classroom.Trainning.git"
+  },
+  "keywords": [
+    "forge",
+    "viewer",
+    "trainning"
+  ],
+  "author": "Zhong Wu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnOnSoftware/Forge.Viewer.Classroom.Trainning/issues"
+  },
+  "homepage": "https://github.com/JohnOnSoftware/Forge.Viewer.Classroom.Trainning#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.74.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
